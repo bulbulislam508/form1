@@ -1,0 +1,19 @@
+
+  header .custom-jumbroton .wrapper {
+    height: 350px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  
+  header .custom-jumbroton .wrapper h1 {
+    color: #63A4EC;
+    font-size: 70px;
+  }
+  
+  header .custom-jumbroton .wrapper span {
+    color: #ef796b;
+  }
+ header .custom-jumbroton .wrapper p {
+     color: #63A4EC;
+ }
